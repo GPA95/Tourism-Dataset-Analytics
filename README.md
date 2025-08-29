@@ -28,6 +28,9 @@ This project was completed during a workshop on "Data Analytics in Python" at II
 - **Seaborn**: Visualizing data patterns with advanced aesthetics.  
 - **Plotly Express**: Creating interactive and dynamic visualizations.  
 
+# Data Analysis Workflow
+<img width="2832" height="3848" alt="Tourism-Dataset-Analytics" src="https://github.com/user-attachments/assets/df2ff99f-ebfa-4cf1-a702-4318c7e39687" />
+
 ## Project Highlights  
 ### Key Insights:  
 - The number of tourists generally increased from 2015 to 2020, with a sharp decline in 2020 likely due to external factors.  
