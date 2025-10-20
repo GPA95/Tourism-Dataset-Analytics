@@ -30,7 +30,7 @@ This project was completed during a workshop on "Data Analytics in Python" at II
 
 # Data Analysis Workflow
 <img width="2832" height="3848" alt="Tourism-Dataset-Analytics" src="https://github.com/user-attachments/assets/df2ff99f-ebfa-4cf1-a702-4318c7e39687" />
-> ©️🖼️ Diagram Credits: https://gitdiagram.com/
+©️🖼️ Diagram Credits: https://gitdiagram.com/
 
 ## Project Highlights  
 ### Key Insights:  
